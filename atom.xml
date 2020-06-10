@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ildry.com</id>
     <title>iLDrY</title>
-    <updated>2020-06-10T16:44:41.470Z</updated>
+    <updated>2020-06-10T16:47:59.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ildry.com"/>
     <link rel="self" href="https://ildry.com/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://ildry.com/images/avatar.png</logo>
     <icon>https://ildry.com/favicon.ico</icon>
     <rights>All rights reserved 2020, iLDrY</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-06-11]]></title>
+        <id>https://ildry.com/post/2020-06-11/</id>
+        <link href="https://ildry.com/post/2020-06-11/">
+        </link>
+        <updated>2020-06-10T16:44:50.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-6-10]]></title>
         <id>https://ildry.com/post/2020-6-10/</id>
@@ -122,12 +129,5 @@
         <link href="https://ildry.com/post/2020-3-28/">
         </link>
         <updated>2020-03-28T14:17:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-01]]></title>
-        <id>https://ildry.com/post/2020-01-01/</id>
-        <link href="https://ildry.com/post/2020-01-01/">
-        </link>
-        <updated>2020-01-01T15:45:43.000Z</updated>
     </entry>
 </feed>

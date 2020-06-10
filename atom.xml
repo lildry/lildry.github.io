@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ildry.com</id>
     <title>iLDrY</title>
-    <updated>2020-06-10T08:31:16.947Z</updated>
+    <updated>2020-06-10T08:46:49.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ildry.com"/>
     <link rel="self" href="https://ildry.com/atom.xml"/>
@@ -58,6 +58,27 @@
 后浪展现的绝对不是大多数中国年轻人的情况。它展示出来的那部分人，只是少数，是幸存者偏差，<br>
 那些部分人大多是中上层的子女青年，此处“致敬”许可馨。<br>
 而被忽视的大多数青（jiu）年（cai）根本没资格被剪辑进视频里。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[儿童节快乐呀]]></title>
+        <id>https://ildry.com/post/er-tong-jie-kuai-le-ya/</id>
+        <link href="https://ildry.com/post/er-tong-jie-kuai-le-ya/">
+        </link>
+        <updated>2020-06-01T08:32:18.000Z</updated>
+        <summary type="html"><![CDATA[<p align="center">突如其来的大雨，</p>
+<p align="center">灰蒙蒙的天空，</p>
+<p align="center">还是令人忍不住跑出去。</p>
+<p align="center">最近一直在挑礼物</p>
+<p align="center">想给你的从来都不会问你要不要</p>
+<p align="center">因为知道你心心念念咪咕</p>
+]]></summary>
+        <content type="html"><![CDATA[<p align="center">突如其来的大雨，</p>
+<p align="center">灰蒙蒙的天空，</p>
+<p align="center">还是令人忍不住跑出去。</p>
+<p align="center">最近一直在挑礼物</p>
+<p align="center">想给你的从来都不会问你要不要</p>
+<p align="center">因为知道你心心念念咪咕</p>
 ]]></content>
     </entry>
     <entry>

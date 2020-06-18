@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ildry.com</id>
     <title>iLDrY</title>
-    <updated>2020-06-16T13:12:24.946Z</updated>
+    <updated>2020-06-18T08:36:08.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ildry.com"/>
     <link rel="self" href="https://ildry.com/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://ildry.com/images/avatar.png</logo>
     <icon>https://ildry.com/favicon.ico</icon>
     <rights>All rights reserved 2020, iLDrY</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-06-18]]></title>
+        <id>https://ildry.com/post/2020-06-18/</id>
+        <link href="https://ildry.com/post/2020-06-18/">
+        </link>
+        <updated>2020-06-18T08:33:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-06-17]]></title>
+        <id>https://ildry.com/post/2020-06-17/</id>
+        <link href="https://ildry.com/post/2020-06-17/">
+        </link>
+        <updated>2020-06-17T11:22:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-06-16]]></title>
         <id>https://ildry.com/post/2020-06-16/</id>
@@ -65,53 +79,5 @@
         <link href="https://ildry.com/post/2020-6-9/">
         </link>
         <updated>2020-06-09T15:47:08.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《看见》的力量-快手A站（Acfun）]]></title>
-        <id>https://ildry.com/post/lesslesskan-jian-greatergreater-de-li-liang-kuai-shou-a-zhan-acfun/</id>
-        <link href="https://ildry.com/post/lesslesskan-jian-greatergreater-de-li-liang-kuai-shou-a-zhan-acfun/">
-        </link>
-        <updated>2020-06-06T08:10:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>《看见》欢迎Acer回家<br>
-点击下面图片观看《看见》<br>
-<a href="https://live.kuaishou.com/u/3x7xgyh3xp3pd5m/3xjt9szjg4irrv4?did=web_72b2bb6fa1b24226890ced00ed8e5460"><img src="https://ildry.com/post-images/1591777648419.jpg" alt="" loading="lazy"></a><br>
-对社会现状不满、对生活困境无奈时，已经看透了这个世界，<br>
-正因为看见，看见远方，看见生活的美好。你也和他们一样，那一群为了心愿、为了生活、为了遥不可及的梦的人们一样，不断拼搏向上的人。看清生活真相，依旧热爱生活。我们都是自己生命里的英雄。<br>
-因为我们是平凡的人，所以谁也没有权力指点谁的人生，每个人的人生都是不平凡的。<br>
-你比你想象的更美好。奥里给！<br>
-对比《后浪》点击图片播放<br>
-<a href="https://www.bilibili.com/video/BV1FV411d7u7?from=search&amp;seid=17610751402250015976"><img src="https://ildry.com/post-images/1591776905567.jpg" alt="" loading="lazy"></a></p>
-]]></summary>
-        <content type="html"><![CDATA[<p>《看见》欢迎Acer回家<br>
-点击下面图片观看《看见》<br>
-<a href="https://live.kuaishou.com/u/3x7xgyh3xp3pd5m/3xjt9szjg4irrv4?did=web_72b2bb6fa1b24226890ced00ed8e5460"><img src="https://ildry.com/post-images/1591777648419.jpg" alt="" loading="lazy"></a><br>
-对社会现状不满、对生活困境无奈时，已经看透了这个世界，<br>
-正因为看见，看见远方，看见生活的美好。你也和他们一样，那一群为了心愿、为了生活、为了遥不可及的梦的人们一样，不断拼搏向上的人。看清生活真相，依旧热爱生活。我们都是自己生命里的英雄。<br>
-因为我们是平凡的人，所以谁也没有权力指点谁的人生，每个人的人生都是不平凡的。<br>
-你比你想象的更美好。奥里给！<br>
-对比《后浪》点击图片播放<br>
-<a href="https://www.bilibili.com/video/BV1FV411d7u7?from=search&amp;seid=17610751402250015976"><img src="https://ildry.com/post-images/1591776905567.jpg" alt="" loading="lazy"></a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[儿童节快乐鸭]]></title>
-        <id>https://ildry.com/post/er-tong-jie-kuai-le-ya/</id>
-        <link href="https://ildry.com/post/er-tong-jie-kuai-le-ya/">
-        </link>
-        <updated>2020-06-01T08:32:18.000Z</updated>
-        <summary type="html"><![CDATA[<p align="center">突如其来的大雨，</p>
-<p align="center">灰蒙蒙的天空，</p>
-<p align="center">还是令人忍不住跑出去。</p>
-<p align="center">最近一直在挑礼物</p>
-<p align="center">想给你的从来都不会问你要不要</p>
-<p align="center">因为知道你心心念念咪咕</p>
-]]></summary>
-        <content type="html"><![CDATA[<p align="center">突如其来的大雨，</p>
-<p align="center">灰蒙蒙的天空，</p>
-<p align="center">还是令人忍不住跑出去。</p>
-<p align="center">最近一直在挑礼物</p>
-<p align="center">想给你的从来都不会问你要不要</p>
-<p align="center">因为知道你心心念念咪咕</p>
-]]></content>
     </entry>
 </feed>

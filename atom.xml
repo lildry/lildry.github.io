@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ildry.com</id>
     <title>iLDrY</title>
-    <updated>2020-06-25T07:56:11.477Z</updated>
+    <updated>2020-06-25T08:26:24.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ildry.com"/>
     <link rel="self" href="https://ildry.com/atom.xml"/>
@@ -30,6 +30,13 @@
         <link href="https://ildry.com/post/2020-06-22/">
         </link>
         <updated>2020-06-22T14:47:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏之伪道]]></title>
+        <id>https://ildry.com/post/xia-zhi-wei-dao/</id>
+        <link href="https://ildry.com/post/xia-zhi-wei-dao/">
+        </link>
+        <updated>2020-06-21T16:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-06-21]]></title>
@@ -72,12 +79,5 @@
         <link href="https://ildry.com/post/2020-06-16/">
         </link>
         <updated>2020-06-16T09:30:02.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-06-15]]></title>
-        <id>https://ildry.com/post/2020-06-15/</id>
-        <link href="https://ildry.com/post/2020-06-15/">
-        </link>
-        <updated>2020-06-15T03:51:11.000Z</updated>
     </entry>
 </feed>

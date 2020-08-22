@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ildry.com</id>
     <title>iLDrY</title>
-    <updated>2020-08-06T15:18:38.082Z</updated>
+    <updated>2020-08-22T15:20:08.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ildry.com"/>
     <link rel="self" href="https://ildry.com/atom.xml"/>
@@ -11,73 +11,73 @@
     <icon>https://ildry.com/favicon.ico</icon>
     <rights>All rights reserved 2020, iLDrY</rights>
     <entry>
-        <title type="html"><![CDATA[2020-08-06]]></title>
-        <id>https://ildry.com/post/2020-08-06/</id>
-        <link href="https://ildry.com/post/2020-08-06/">
+        <title type="html"><![CDATA[2020-08-23]]></title>
+        <id>https://ildry.com/post/2020-08-23/</id>
+        <link href="https://ildry.com/post/2020-08-23/">
         </link>
-        <updated>2020-08-06T04:18:05.000Z</updated>
+        <updated>2020-08-22T16:00:08.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-08-05]]></title>
-        <id>https://ildry.com/post/2020-08-05/</id>
-        <link href="https://ildry.com/post/2020-08-05/">
+        <title type="html"><![CDATA[2020-08-22]]></title>
+        <id>https://ildry.com/post/2020-08-22/</id>
+        <link href="https://ildry.com/post/2020-08-22/">
         </link>
-        <updated>2020-08-05T12:58:04.000Z</updated>
+        <updated>2020-08-22T01:21:02.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-08-04]]></title>
-        <id>https://ildry.com/post/2020-08-04/</id>
-        <link href="https://ildry.com/post/2020-08-04/">
+        <title type="html"><![CDATA[2020-08-21]]></title>
+        <id>https://ildry.com/post/2020-08-21/</id>
+        <link href="https://ildry.com/post/2020-08-21/">
         </link>
-        <updated>2020-08-04T13:16:57.000Z</updated>
+        <updated>2020-08-21T15:08:36.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-08-03]]></title>
-        <id>https://ildry.com/post/2020-08-03/</id>
-        <link href="https://ildry.com/post/2020-08-03/">
+        <title type="html"><![CDATA[2020-08-20]]></title>
+        <id>https://ildry.com/post/2020-08-20/</id>
+        <link href="https://ildry.com/post/2020-08-20/">
         </link>
-        <updated>2020-08-03T13:00:12.000Z</updated>
+        <updated>2020-08-20T15:04:46.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-08-02]]></title>
-        <id>https://ildry.com/post/2020-08-02/</id>
-        <link href="https://ildry.com/post/2020-08-02/">
+        <title type="html"><![CDATA[2020-08-19]]></title>
+        <id>https://ildry.com/post/2020-08-19/</id>
+        <link href="https://ildry.com/post/2020-08-19/">
         </link>
-        <updated>2020-08-01T14:38:19.000Z</updated>
+        <updated>2020-08-19T15:01:47.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-08-01]]></title>
-        <id>https://ildry.com/post/2020-08-01/</id>
-        <link href="https://ildry.com/post/2020-08-01/">
+        <title type="html"><![CDATA[2020-08-18]]></title>
+        <id>https://ildry.com/post/2020-08-18/</id>
+        <link href="https://ildry.com/post/2020-08-18/">
         </link>
-        <updated>2020-08-01T14:19:49.000Z</updated>
+        <updated>2020-08-18T15:00:53.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-07-31]]></title>
-        <id>https://ildry.com/post/2020-07-31/</id>
-        <link href="https://ildry.com/post/2020-07-31/">
+        <title type="html"><![CDATA[2020-08-17]]></title>
+        <id>https://ildry.com/post/2020-08-17/</id>
+        <link href="https://ildry.com/post/2020-08-17/">
         </link>
-        <updated>2020-07-31T14:11:43.000Z</updated>
+        <updated>2020-08-17T14:45:02.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-07-30]]></title>
-        <id>https://ildry.com/post/2020-07-30/</id>
-        <link href="https://ildry.com/post/2020-07-30/">
+        <title type="html"><![CDATA[2020-08-16]]></title>
+        <id>https://ildry.com/post/2020-08-16/</id>
+        <link href="https://ildry.com/post/2020-08-16/">
         </link>
-        <updated>2020-07-30T00:20:25.000Z</updated>
+        <updated>2020-08-16T14:40:35.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-07-29]]></title>
-        <id>https://ildry.com/post/2020-07-29/</id>
-        <link href="https://ildry.com/post/2020-07-29/">
+        <title type="html"><![CDATA[2020-08-15]]></title>
+        <id>https://ildry.com/post/2020-08-15/</id>
+        <link href="https://ildry.com/post/2020-08-15/">
         </link>
-        <updated>2020-07-29T14:08:56.000Z</updated>
+        <updated>2020-08-15T01:24:46.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-07-28]]></title>
-        <id>https://ildry.com/post/2020-07-28/</id>
-        <link href="https://ildry.com/post/2020-07-28/">
+        <title type="html"><![CDATA[2020-08-14]]></title>
+        <id>https://ildry.com/post/2020-08-14/</id>
+        <link href="https://ildry.com/post/2020-08-14/">
         </link>
-        <updated>2020-07-28T13:24:42.000Z</updated>
+        <updated>2020-08-14T01:48:49.000Z</updated>
     </entry>
 </feed>

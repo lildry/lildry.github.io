@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>2019-04-04 | iLDrY</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://ildry.com/favicon.ico?v=1740966642609">
+<link rel="stylesheet" href="https://ildry.com/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="你好，未来
+某一天突然想起有这么一个故事（内容虚构）
+有个人种下一颗种子，最后栽出一棵独特的花，
+别人说:“不还是一朵花吗？”
+回答：“我世界又多了一种花。”
+觉得路边的野草甚是好看，栽在阳台边上，
+路人说:“这不是一株杂草吗？”
+回答：“..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://ildry.com">
+        <img src="https://ildry.com/images/avatar.png?v=1740966642609" class="site-logo">
+        <h1 class="site-title">iLDrY</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      你的心情牵动着我的情绪
+    </div>
+    <div class="site-footer">
+      <a href="https://ildry.com/" target="_blank">兴趣使然的小站</a> | <a class="rss" href="https://ildry.com/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">2019-04-04</h2>
+            <div class="post-date">2019-04-04</div>
+            
+            <div class="post-content" v-pre>
+              <h1 id="center你好未来center"><center>你好，未来</center></h1>
+<p>某一天突然想起有这么一个故事（内容虚构）<br>
+有个人种下一颗种子，最后栽出一棵独特的花，<br>
+别人说:“不还是一朵花吗？”<br>
+回答：“我世界又多了一种花。”<br>
+觉得路边的野草甚是好看，栽在阳台边上，<br>
+路人说:“这不是一株杂草吗？”<br>
+回答：“我的内心多了一处幽静。”<br>
+不同的价值观衍生了不同的看法和行为，<br>
+你跟我说不要太在意，也不要解读别人的思想。<br>
+你说不需要。没有所谓，不用客气。<br>
+有时候你不知道在什么时候，已然救赎了一个人的时候。</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://ildry.com/post/2019-01-06/">
+                  <h3 class="post-title">
+                    2019-01-06
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>2018-04-18 | iLDrY</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://ildry.com/favicon.ico?v=1740966642609">
+<link rel="stylesheet" href="https://ildry.com/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="想要了解一个人，哪儿有那么容易？
+网上，展现的并非完整的我，有也仅是那某一刻的心境变化.
+网络很浅，孤独很深.
+你是多么孤独，翻看着空间，说说，相册，日志，朋友圈.
+亲爱的访客啊，你又怎么敢通过一张头像或空间朋友圈就说了解？
+先入为主的认为..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://ildry.com">
+        <img src="https://ildry.com/images/avatar.png?v=1740966642609" class="site-logo">
+        <h1 class="site-title">iLDrY</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      你的心情牵动着我的情绪
+    </div>
+    <div class="site-footer">
+      <a href="https://ildry.com/" target="_blank">兴趣使然的小站</a> | <a class="rss" href="https://ildry.com/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">2018-04-18</h2>
+            <div class="post-date">2018-04-18</div>
+            
+            <div class="post-content" v-pre>
+              <p>想要了解一个人，哪儿有那么容易？<br>
+网上，展现的并非完整的我，有也仅是那某一刻的心境变化.<br>
+网络很浅，孤独很深.<br>
+你是多么孤独，翻看着空间，说说，相册，日志，朋友圈.<br>
+亲爱的访客啊，你又怎么敢通过一张头像或空间朋友圈就说了解？<br>
+先入为主的认为我性格如何，加以贴标签推测兴趣爱好诸如此类，在我看来，这样的揣测本身就是无稽之谈.<br>
+网上的信息，只是别人想让你看到什么，就给你看什么.（勿谈国是）</p>
+<!-- more -->
+<p>自己弄个小网站记录生活，不是为了谁，却常被问为什么，个人而言，只是喜欢用网络记录生活。<br>
+有的只是那八成心境，十分喜欢，纠纷生活，还有一份孤独.<br>
+仅此而已.</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://ildry.com/post/2018-4-10/">
+                  <h3 class="post-title">
+                    2018-04-10
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

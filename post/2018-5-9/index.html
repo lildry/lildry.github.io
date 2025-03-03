@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>2018-05-09 | iLDrY</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://ildry.com/favicon.ico?v=1740966642609">
+<link rel="stylesheet" href="https://ildry.com/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="不知何以言语，
+留给自己，却总是在凌晨，
+有时候，
+那么多个不眠夜，
+跌宕起伏，
+总是看淡很多，放下很多，
+但事实真的能？
+从始无知无畏，
+至后满怀敬畏。
+一直是想走出去，常常想回家。
+通讯时，总言，有放假，就回去。
+常回家看看，从车票，到..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://ildry.com">
+        <img src="https://ildry.com/images/avatar.png?v=1740966642609" class="site-logo">
+        <h1 class="site-title">iLDrY</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      你的心情牵动着我的情绪
+    </div>
+    <div class="site-footer">
+      <a href="https://ildry.com/" target="_blank">兴趣使然的小站</a> | <a class="rss" href="https://ildry.com/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">2018-05-09</h2>
+            <div class="post-date">2018-05-09</div>
+            
+            <div class="post-content" v-pre>
+              <p>不知何以言语，<br>
+留给自己，却总是在凌晨，<br>
+有时候，<br>
+那么多个不眠夜，<br>
+跌宕起伏，<br>
+总是看淡很多，放下很多，<br>
+但事实真的能？</p>
+<p>从始无知无畏，<br>
+至后满怀敬畏。</p>
+<p>一直是想走出去，常常想回家。<br>
+通讯时，总言，有放假，就回去。<br>
+常回家看看，从车票，到一首歌，到一句话，再到后来的，一条短讯，<br>
+4月是个谎言，有太多的无可奈何，<br>
+每天都会有人离去，<br>
+或近或远，只是在4月格外的敏感，</p>
+<p>仪式感，总是要有的。<br>
+戏如人生，还是人生如戏。相信父亲比我看的更清。</p>
+<p>“他乡夜深梦突醒境冷意寒心生悲”<br>
+心境顿生百种，不知何以言表。</p>
+<p>这个周末是母亲节，看到朋友圈，网上在刷那些信息，不敢点，也不敢看。<br>
+小心翼翼的计算着下一个回家的日期。</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://ildry.com/post/2018-04-18/">
+                  <h3 class="post-title">
+                    2018-04-18
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

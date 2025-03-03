@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>2021-02-19 | iLDrY</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://ildry.com/favicon.ico?v=1740966642609">
+<link rel="stylesheet" href="https://ildry.com/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="昨日姨丈问了那么一句，你想家？
+不经意间，感觉被触碰到了什么，
+很想回复一句话，一个字&quot;想&quot;，回答也有些哽咽。
+其实无所谓，
+既然有值与不值的选项，每个人就都可以按照自己的意愿去选择，
+真实的值与不值是在每个人心中，巨贵..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://ildry.com">
+        <img src="https://ildry.com/images/avatar.png?v=1740966642609" class="site-logo">
+        <h1 class="site-title">iLDrY</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      你的心情牵动着我的情绪
+    </div>
+    <div class="site-footer">
+      <a href="https://ildry.com/" target="_blank">兴趣使然的小站</a> | <a class="rss" href="https://ildry.com/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">2021-02-19</h2>
+            <div class="post-date">2021-02-19</div>
+            
+            <div class="post-content" v-pre>
+              <p>昨日姨丈问了那么一句，你想家？<br>
+不经意间，感觉被触碰到了什么，<br>
+很想回复一句话，一个字&quot;想&quot;，回答也有些哽咽。</p>
+<p>其实无所谓，<br>
+既然有值与不值的选项，每个人就都可以按照自己的意愿去选择，<br>
+真实的值与不值是在每个人心中，巨贵或者博眼球的东西，很多人说值的，<br>
+难道它就真的值吗？<br>
+每个人的人生能够自我选择的权利本来就很少，不用太去计较……<br>
+也可能我本身就没有什么意义吧。</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://ildry.com/post/2021-02-13/">
+                  <h3 class="post-title">
+                    2021-02-13
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
